@@ -1,0 +1,15 @@
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\bin\Debug\net8.0\03_Hello.exe
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\bin\Debug\net8.0\03_Hello.deps.json
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\bin\Debug\net8.0\03_Hello.runtimeconfig.json
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\bin\Debug\net8.0\03_Hello.dll
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\bin\Debug\net8.0\03_Hello.pdb
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.AssemblyInfoInputs.cache
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.AssemblyInfo.cs
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.csproj.CoreCompileInputs.cache
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.sourcelink.json
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.dll
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\refint\03_Hello.dll
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.pdb
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\03_Hello.genruntimeconfig.cache
+C:\Users\arlen\Desktop\HowToSeeSharp\PlayersGuide\03_Hello\03_Hello\obj\Debug\net8.0\ref\03_Hello.dll
